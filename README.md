@@ -27,3 +27,5 @@ After the above steps are successfully completed, run the python file.
 ``` fancy
 $ python transferToGcpBucket.py
 ```
+# Setting up Google Vision API locally
+[Google Vision API Setup from Scratch](https://www.youtube.com/watch?v=nMY0qDg16y4&t=47s)
